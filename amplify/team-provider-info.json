@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hackathon2023-dev-154259-authRole",
+      "UnauthRoleArn": "arn:aws:iam::523186063015:role/amplify-hackathon2023-dev-154259-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::523186063015:role/amplify-hackathon2023-dev-154259-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-hackathon2023-dev-154259-deployment",
+      "UnauthRoleName": "amplify-hackathon2023-dev-154259-unauthRole",
+      "StackName": "amplify-hackathon2023-dev-154259",
+      "StackId": "arn:aws:cloudformation:us-west-2:523186063015:stack/amplify-hackathon2023-dev-154259/22f6ef00-1605-11ee-8f8b-065952d12b0d",
+      "AmplifyAppId": "d1za2tazlg9tfd"
+    },
+    "categories": {
+      "auth": {
+        "hackathon202310912e16": {}
+      },
+      "function": {
+        "S3Triggerea41256d": {
+          "deploymentBucketName": "amplify-hackathon2023-dev-154259-deployment",
+          "s3Key": "amplify-builds/S3Triggerea41256d-56346a6c375a37644633-build.zip"
+        }
+      },
+      "storage": {
+        "hackthon2023": {}
+      }
+    }
+  }
+}
